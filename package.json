@@ -1,0 +1,15 @@
+{
+  "name": "streamcontainer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc -w && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Schraudner <daniel.schraudner@fau.de>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
